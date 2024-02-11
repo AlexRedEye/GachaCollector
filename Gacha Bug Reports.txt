@@ -1,0 +1,7 @@
+0.1.5
+ - Volume doesn't save after resest.
+ - Pity in "Collection" menu doesn't work.
+ - Volume slider shows in "Collection" menu.
+
+
+Golden
