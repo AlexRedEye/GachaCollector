@@ -7,4 +7,4 @@ Golden
 0.1.7
  - "Collection" menu needs to be reformated/add page scrolling.
  - ~Find out if "Signature" attack should be sperated or if there should be a back fill.
- 
+ Golden
