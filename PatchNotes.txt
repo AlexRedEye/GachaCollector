@@ -40,3 +40,6 @@
  - Fixed Pity Text Not Updating After resetting
  - Added new music for Main Menu
  - Added Main Menu Settings
+
+0.1.9
+ - Fixed Main Menu Settings back button not working
