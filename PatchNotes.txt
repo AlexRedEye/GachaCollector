@@ -43,3 +43,7 @@
 
 0.1.9
  - Fixed Main Menu Settings back button not working
+ - Added Splash Screens
+
+0.1.10
+ - yuh
