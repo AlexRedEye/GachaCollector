@@ -12,3 +12,28 @@ Golden
 0.1.12
  - Volume not responding in game scene
 Phantom
+
+0.1.12
+ Graphics
+ - Intro screen stutters/freezes when opening game.
+
+ Audio
+ - Once in-game volume slider no longer works
+
+ Map
+ - Visual glitch when walking (more noticeable when walking into/neat walls)
+ - Move Gacha game hitbox closer to center of summon pad
+ - Second log on the right side of bottom pathway is skewd/off-center
+ - Log hitboxes are asymetric (Some stop you from moving when huggin the wall, some do not)
+ - Random hit boxes when huggin lateral walls, Sometime happens sometimes doesn't. (Possible Z clipping)
+
+ Fighting
+ - Signature move doesn't retain unused points
+ - Signature move doesn't reduce on winning hit
+
+
+*Suggestions*
+ -- Clean settings layout by putting sliders on left top of screen.
+ -- Make back button in settings smaller
+ -- Add wait time and animation when entering Gacha (Later on ofc)
+Golden
