@@ -26,6 +26,7 @@ Phantom
  - Second log on the right side of bottom pathway is skewd/off-center
  - Log hitboxes are asymetric (Some stop you from moving when huggin the wall, some do not)
  - Random hit boxes when huggin lateral walls, Sometime happens sometimes doesn't. (Possible Z clipping)
+ - Random grass texture outside of map behind Dungeon.
 
  Fighting
  - Signature move doesn't retain unused points
