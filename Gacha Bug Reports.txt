@@ -21,7 +21,7 @@ Phantom
  - Once in-game volume slider no longer works
 
  Map
- - Visual glitch when walking (more noticeable when walking into/neat walls)
+ - Visual glitch when walking (more noticeable when walking into/near walls)
  - Move Gacha game hitbox closer to center of summon pad
  - Second log on the right side of bottom pathway is skewd/off-center
  - Log hitboxes are asymetric (Some stop you from moving when huggin the wall, some do not)
