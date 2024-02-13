@@ -37,4 +37,5 @@ Phantom
  -- Clean settings layout by putting sliders on left top of screen.
  -- Make back button in settings smaller
  -- Add wait time and animation when entering Gacha (Later on ofc)
+ -- Give feedback after reseting collection
 Golden
